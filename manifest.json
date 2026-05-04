@@ -1,0 +1,25 @@
+{
+  "name": "ComuniCAP",
+  "short_name": "ComuniCAP",
+  "description": "Herramienta de Comunicación Aumentativa y Alternativa por Adriana Soba, Fonoaudióloga",
+  "start_url": "https://comunipro2026-oss.github.io/comunicap/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#3a86ff",
+  "theme_color": "#3a86ff",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "https://comunipro2026-oss.github.io/comunicap/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://comunipro2026-oss.github.io/comunicap/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
